@@ -1,0 +1,25 @@
+body{
+    background: #f3f4f6;
+    color: #374151;
+    
+  }
+  h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.2em;
+  }
+
+  @media (max-width:500px) {
+    h2{
+      font-size: 24px;
+    }
+    h4{
+      font-size: 14px;
+    }
+  }
+  h4{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.2em;
+  }
+ 

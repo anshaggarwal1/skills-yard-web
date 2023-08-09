@@ -1,0 +1,147 @@
+.lol{
+    width: 380px;
+    height: 380px;
+    position: relative;
+    border: 1px solid gray;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    margin: auto;
+    /* -webkit-animation: circle 30s linear infinite;
+    animation: circle 30s linear infinite; */
+
+  }
+  .lola{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    border: 1px solid gray;
+    top: 0;
+    margin-top: 4;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    margin: auto;
+  }
+  .lord{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border: 1px solid gray;
+    top: 0;
+    margin-top: 4;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    margin: auto;
+
+  }
+
+  .circle{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-animation: circle 24s linear infinite;
+    animation: circle 24s linear infinite;
+  }
+  .circle1{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-animation: circle 26s linear infinite;
+    animation: circle 26s linear infinite;
+    /* animation-delay: 4s; */
+  }
+  .circle2{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-animation: circle 28s linear infinite;
+    animation: circle 28s linear infinite;
+    /* animation-delay: 7s; */
+
+  }
+  .circle3{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-animation: circle 30s linear infinite;
+    animation: circle 30s linear infinite;
+    /* animation-delay: 10s; */
+  }
+  .circle4{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* -webkit-animation: circle 32s linear infinite;
+    animation: circle 32s linear infinite; */
+    /* animation-delay: 13s; */
+
+  }
+  .circle5{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    -webkit-animation: circle 34s linear infinite;
+    animation: circle 34s linear infinite;
+    /* animation-delay: 15s; */
+
+  }
+
+
+
+
+  @-webkit-keyframes circle{
+    0% {
+        transform: rotate(0deg)translate(-185px)rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg)translate(-190px)rotate(-360deg);
+    }
+
+  }
+  @keyframes circle {
+    0% {
+        transform: rotate(0deg)translate(-190px)rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg)translate(-190px)rotate(-360deg);
+    }
+
+
+    
+  } 
