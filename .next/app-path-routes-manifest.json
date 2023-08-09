@@ -1,10 +1,10 @@
 {
-  "/page": "/",
   "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
   "/about/page": "/about",
   "/contact-us/page": "/contact-us",
-  "/placement/page": "/placement",
   "/showcase/page": "/showcase",
-  "/course/[slug]/page": "/course/[slug]",
-  "/api/sendEmail/route": "/api/sendEmail"
+  "/placement/page": "/placement",
+  "/api/sendEmail/route": "/api/sendEmail",
+  "/course/[slug]/page": "/course/[slug]"
 }
